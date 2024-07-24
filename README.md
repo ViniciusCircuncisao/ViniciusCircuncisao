@@ -8,4 +8,4 @@ Atualmente sou Analista de Conversão e estou sempre em busca de novos desafios 
 - 🛠️ Uso diário: `.py`, `.sql`, `.java`, `.html`, `.css`, `.js`
 - 💬 Sinta-se à vontade para me contatar sobre **processos**, **desenvolvimento**, **automação**, **melhoria contínua**
 
-Sempre estou aberto a novas conexões e oportunidades de colaboração. Vamos construir algo incrível juntos!
+Sempre estou aberto a novas conexões e oportunidades de colaboração. Vamos construir algo juntos!
